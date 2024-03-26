@@ -1,5 +1,5 @@
 #Java Core Home Work 5 by Istomin Sergey, group 6413
-![Image alt](https://github.com//Sistomin/JavaCoreHW5/upload/main/Img.png)
+![Image alt](https://github.com/Sistomin/JavaCoreHW5/upload/main/Img.png)
 
 1. Написать функцию, создающую резервную копию всех файлов в директории (без
 поддиректорий) во вновь созданную папку ./backup
